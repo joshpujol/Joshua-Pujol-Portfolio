@@ -1788,7 +1788,8 @@ a {
   height: 100%;
   object-fit: cover;
   object-position: 50% 50%;
-  overflow: visible;
+  display: block;
+  overflow: hidden;
 }
 
 .gallery-item.pin {
@@ -3516,7 +3517,7 @@ a {
   height: auto;
   opacity: 1;
   background-color: #0e0e0e;
-  background-image: var(--image-i22d1560e), linear-gradient(138deg, #462929 15%, #00316b);
+  background-image: var(--image-i37565f0d), linear-gradient(138deg, #462929 15%, #00316b);
   background-position: 50%, 0 0;
   background-repeat: no-repeat, repeat;
   background-size: 100%, auto;
@@ -3926,7 +3927,7 @@ a {
   height: auto;
   opacity: 0;
   background-color: #0e0e0e;
-  background-image: var(--image-42d1c652), linear-gradient(138deg, #48a2fc 32%, #f3b572 100%, #fff 104%);
+  background-image: var(--image-176a1093), linear-gradient(138deg, #48a2fc 32%, #f3b572 100%, #fff 104%);
   background-position: 50%, 0 0;
   background-size: auto, auto;
   border-radius: 0;
@@ -5883,13 +5884,13 @@ a {
   }
 
   .menu-bg.drk {
-    background-image: var(--image-i22d1560e), linear-gradient(135deg, #00316b, #462929);
+    background-image: var(--image-i37565f0d), linear-gradient(135deg, #00316b, #462929);
     background-position: 50%, 0 0;
     background-size: cover, auto;
   }
 
   .menu-bg.lite {
-    background-image: var(--image-42d1c652), linear-gradient(135deg, #48a2fc, #f3b572);
+    background-image: var(--image-176a1093), linear-gradient(135deg, #48a2fc, #f3b572);
     background-position: 50%, 0 0;
     background-size: cover, auto;
     font-weight: 400;
