@@ -929,6 +929,20 @@ collections:
             label: Text
             name: 5a0ea5a1
             widget: string
+          - hint: 'Original text: Let''s work together!, key: -5bd0004f'
+            label: Text
+            name: '-5bd0004f'
+            widget: string
+          - hint: >-
+              Original text: Are you ready to level up your brand's digital and
+              online presence? , key: 7bfd7b0c
+            label: Text
+            name: 7bfd7b0c
+            widget: string
+          - hint: "Original text: Fill out the form below to schedule a free consultation. Whether you are a small business just beginning your online presence or you are an established brand looking to scale up operations. Whatever your idea or need is, I\_can help you make it a reality. , key: -163f3902"
+            label: Text
+            name: '-163f3902'
+            widget: text
           - hint: 'Original text: CLient, key: 76b4efcb'
             label: Text
             name: 76b4efcb
@@ -953,20 +967,6 @@ collections:
             label: Text
             name: '-450ec856'
             widget: string
-          - hint: 'Original text: Let''s work together!, key: -5bd0004f'
-            label: Text
-            name: '-5bd0004f'
-            widget: string
-          - hint: >-
-              Original text: Are you ready to level up your brand's digital and
-              online presence? , key: 7bfd7b0c
-            label: Text
-            name: 7bfd7b0c
-            widget: string
-          - hint: "Original text: Fill out the form below to schedule a free consultation. Whether you are a small business just beginning your online presence or you are an established brand looking to scale up operations. Whatever your idea or need is, I\_can help you make it a reality. , key: -163f3902"
-            label: Text
-            name: '-163f3902'
-            widget: text
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -1278,19 +1278,6 @@ collections:
                 required: false
           - label: Image
             name: '-34d721b4'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '0'
             widget: object
             fields:
               - name: url
