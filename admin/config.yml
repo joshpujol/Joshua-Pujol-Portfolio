@@ -861,20 +861,6 @@ collections:
             label: Text
             name: '-651f3a6d'
             widget: text
-          - hint: 'Original text: Let''s work together!, key: -5bd0004f'
-            label: Text
-            name: '-5bd0004f'
-            widget: string
-          - hint: >-
-              Original text: Are you ready to level up your brand's digital and
-              online presence? , key: 7bfd7b0c
-            label: Text
-            name: 7bfd7b0c
-            widget: string
-          - hint: "Original text: Fill out the form below to schedule a free consultation. Whether you are a small business just beginning your online presence or you are an established brand looking to scale up operations. Whatever your idea or need is, I\_can help you make it a reality. , key: -163f3902"
-            label: Text
-            name: '-163f3902'
-            widget: text
           - hint: "Original text: Ever since I\_was a child I\_loved to create. It didn't matter what the medium was, I knew I\_wanted to put my signature on the world and express my creativity. To design is much more than simply to assemble, to order, or even to edit, it is to add value and meaning through creativity. I feel that my professional career has benefited greatly from my hobbies. From dance to volunteering, photography to drawing, my passions have shaped me into the person I\_am today., key: 7c615d3a"
             label: Text
             name: 7c615d3a
@@ -967,6 +953,20 @@ collections:
             label: Text
             name: '-450ec856'
             widget: string
+          - hint: 'Original text: Let''s work together!, key: -5bd0004f'
+            label: Text
+            name: '-5bd0004f'
+            widget: string
+          - hint: >-
+              Original text: Are you ready to level up your brand's digital and
+              online presence? , key: 7bfd7b0c
+            label: Text
+            name: 7bfd7b0c
+            widget: string
+          - hint: "Original text: Fill out the form below to schedule a free consultation. Whether you are a small business just beginning your online presence or you are an established brand looking to scale up operations. Whatever your idea or need is, I\_can help you make it a reality. , key: -163f3902"
+            label: Text
+            name: '-163f3902'
+            widget: text
       - label: Links
         name: links
         file: cms/_data/links.json
